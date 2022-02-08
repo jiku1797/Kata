@@ -57,8 +57,6 @@ private:
 
 unsigned int countPatternsFrom(char firstDot, unsigned short length)
 {
-
-
 }
 
 int main()
