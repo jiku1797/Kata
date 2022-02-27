@@ -57,7 +57,6 @@ std::string duplicate_encoder(const std::string& word)
   return ret;
 }
 
-
 int main()
 {
   const std::string testStr{"Success"};
