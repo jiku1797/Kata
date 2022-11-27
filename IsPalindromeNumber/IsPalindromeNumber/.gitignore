@@ -1,0 +1,7 @@
+#*.vcxproj
+#*.filters
+*.user
+*.ipch
+#*.sln
+x64/
+.vs/*
